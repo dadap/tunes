@@ -1,0 +1,5 @@
+Just a bunch of tunes for the Great Highland Bagpipe.
+
+The tunes are notated and engraved using GNU Lilypond. The Lilypond sources
+are distributed along with makefiles that allow for easy engraving of the
+source files to PDF format.
