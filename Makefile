@@ -1,2 +1,2 @@
-SUBDIRS = original
+SUBDIRS = original traditional
 include recurse.mk
