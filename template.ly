@@ -4,5 +4,5 @@
 #(set-global-staff-size 16)
 \paper{
   print-all-headers = ##t
-  tagline = ##f
+  tagline = #"https://github.com/dadap/tunes"
 }
