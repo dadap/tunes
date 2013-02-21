@@ -1,2 +1,2 @@
-SUBDIRS = other
+SUBDIRS = jigs other
 include ../recurse.mk
