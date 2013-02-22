@@ -1,2 +1,2 @@
-SUBDIRS = jigs other
+SUBDIRS = dances other
 include ../recurse.mk

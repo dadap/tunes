@@ -1,4 +1,4 @@
 all: banjo_breakdown.pdf
 
-SRC = ../..
+SRC = ../../..
 include $(SRC)/common.mk
