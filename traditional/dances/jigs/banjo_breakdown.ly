@@ -27,8 +27,8 @@
         {
             \dblA A4 e8 \dblc c4 e8
             \dblA A4 e8 \dblc c4 e8
-            \dblA A4 e8 \thrwd d4 f8
-            \dblA A4 e8 \thrwd d4 f8
+            \dblA A4 f8 \thrwd d4 f8
+            \dblA A4 f8 \thrwd d4 f8
         } \alternative {
             {
                 \dblA A4 e8 \dblc c4 e8
