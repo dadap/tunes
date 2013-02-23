@@ -1,2 +1,2 @@
-SUBDIRS = strathspeys reels
+SUBDIRS = jigs strathspeys reels
 include ../../recurse.mk
